@@ -22,10 +22,10 @@ yarn start
 
 ## Author
 
-👤 **Abhishek Sawan**
+👤 **Puneet Garg**
 
-- Github: [@sawanabhi157](https://github.com/sawanabhi157)
-- LinkedIn: [@sawanabhi157](https://linkedin.com/in/sawanabhi157)
+- Github: [@Puneet438](https://github.com/gargpuneet438)
+- LinkedIn: [@Puneet438](https://linkedin.com/in/gargpuneet438)
 
 ## Show your support
 
